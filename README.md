@@ -18,8 +18,6 @@ An AI-powered tool that **summarizes videos and audio files** into concise, acti
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** n8n automation + JavaScript
 - **AI:** OpenAI API (or your chosen model)
-- **Hosting:** (Add here if hosted)
-
 ---
 
 ## 📂 Project Structure
